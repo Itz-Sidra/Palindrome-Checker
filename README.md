@@ -21,3 +21,6 @@ A simple web application that checks whether a given word or phrase is a palindr
 
 ## Credits
 This project was built as part of a course from freeCodeCamp (https://www.freecodecamp.org/), an open-source community that helps people learn to code for free.
+
+## Demo
+You can access the live demo here: (https://itz-sidra.github.io/Palindrome-Checker/)
